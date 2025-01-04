@@ -16,7 +16,7 @@ The Password Strength Checker is a Python tool designed to assess the strength o
   - At least one uppercase letter.
   - At least one lowercase letter.
   - At least one special character (e.g., @, #, $, etc.).
-- **Strength Evaluation:** Classifies passwords as **Strong**, **Moderate**, **Weak**, **Very Weak**, or **Extremely Weak** based on the checks above.
+- **Strength Evaluation:** Classifies passwords as **Excellent**, **Moderate**, **Weak**, **Very Weak**, or **Extremely Weak** based on the checks above.
 
 **Installation**
 1. Clone the repository to your local machine:
